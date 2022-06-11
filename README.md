@@ -1,4 +1,4 @@
-### Hi there 👋, kipedene
+### Hi there 👋, Kipedene
 #### Statistician Economist
 I'm a student in Economics & statistics. I'm currently doing an intership, and i'am working on Econometrics-Statistics-Machine Learning methods.
 I have many good skills in economics and statistics.
