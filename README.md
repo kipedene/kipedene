@@ -11,3 +11,4 @@ Programming skills: R / PYTHON / SAS / SQL / HTML / CSS / STATA / EVIEWS  (curre
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kipedene) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/kipédènecoulibaly/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://datascience.stackexchange.com/users/136786/kip%c3%a9d%c3%a8ne)  
