@@ -21,7 +21,8 @@ I am specialized in predictive statistics, i.e. Econometrics and Machine Learnin
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />   
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=KipedeneCoulibaly&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=KipedeneCoulibaly&show_icons=true)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipedeneCoulibaly&layout=compact&theme=dracula)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KipedeneCoulibaly) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kipédènecoulibaly/)
