@@ -3,21 +3,20 @@
 I am specialized in predictive statistics, i.e. Econometrics and Machine Learning.  
 
 ##### Programming skills: 
-
-<img align="left" alt="r" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-<img align="left" alt="Sas" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/sas-6-logo-png-transparent.png" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />
+<img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
+<img align="left" alt="r" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />  
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+<img align="left" alt="Sas" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/sas-6-logo-png-transparent.png" />  
 <img align="left" alt="STATA" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.1fa7e4cd066e2c9a1352c25a53f2e040?rik=kZh2rx6R9fd9Kw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-19bQeJnON-o%2fT2BK3xEJDcI%2fAAAAAAAAAfE%2fz769Z9KHMW4%2fs1600%2fstata_logo_blue.jpg&ehk=RL3SON9PB9dmyX62UYtnYD7achZbrfAQUklIdgfBCVI%3d&risl=&pid=ImgRaw&r=0" />
-<img align="left" alt="EViews" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.415f5d3b599599ac40b97f8ae2989a12?rik=lv9QELE1NMcumA&pid=ImgRaw&r=0" />.   
+<img align="left" alt="EViews" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.415f5d3b599599ac40b97f8ae2989a12?rik=lv9QELE1NMcumA&pid=ImgRaw&r=0" />  
+<img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />.
 
 ##### Currently learning from :   
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />   
 
