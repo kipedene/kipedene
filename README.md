@@ -20,7 +20,7 @@ I am specialized in predictive statistics, i.e. Econometrics and Machine Learnin
 
 ##### Currently learning from :  
 
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /><br/>
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> <br/>
 
 ##### Some statistics :
 ![GHstats ](https://github-readme-stats.vercel.app/api?username=KipedeneCoulibaly&show_icons=true)
