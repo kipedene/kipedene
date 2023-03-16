@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/u6P4KfXsTadxj4ngTk/giphy.gif?cid=ecf05e47y4hkqaeen6suvot3nciowxeks50pck1rhatvbx2j&rid=giphy.gif&ct=g" width="480" height="200" align="right" frameBorder="0" class="giphy-embed">
 
 ## Statistician Economist and Data Scientist
-I am specialized in predictive statistics, i.e. Econometrics and Machine Learning.  
+I am specialized in predictive statistics, i.e. Econometrics and Machine Learning.<br/><br/><br/><br/><br/>  
 
 ##### Programming skills: 
 <img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
@@ -11,7 +11,7 @@ I am specialized in predictive statistics, i.e. Econometrics and Machine Learnin
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" /><br/><br/>  
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />  
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <img align="left" alt="Sas" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/sas-6-logo-png-transparent.png" />  
