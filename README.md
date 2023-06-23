@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/u6P4KfXsTadxj4ngTk/giphy.gif?cid=ecf05e47y4hkqaeen6suvot3nciowxeks50pck1rhatvbx2j&rid=giphy.gif&ct=g" width="480" height="200" align="right" frameBorder="0" class="giphy-embed">
 
 ## Statistician Economist and Data Scientist
-I am specialized in predictive statistics, i.e. Econometrics and Machine Learning.<br/><br/><br/><br/><br/>  
+I am specialized in predictive statistics, i.e. IA, Machine Learning and Econometrics.<br/><br/><br/><br/><br/>  
 
 ##### Programming skills: 
 <img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
