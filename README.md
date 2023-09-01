@@ -1,7 +1,7 @@
 ### Hi there 👋, Kipedene   
 <img src="https://media0.giphy.com/media/u6P4KfXsTadxj4ngTk/giphy.gif?cid=ecf05e47y4hkqaeen6suvot3nciowxeks50pck1rhatvbx2j&rid=giphy.gif&ct=g" width="480" height="200" align="right" frameBorder="0" class="giphy-embed">
 
-## Data Scientist and  Statistician Economist
+## Statistician Economist, Data Scientist and  Software Engineer
 I am specialized in predictive statistics, i.e. intelligence artificielle (IA), Machine Learning and Econometrics.<br/><br/><br/><br/><br/>  
 
 ##### Programming skills: 
