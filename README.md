@@ -20,7 +20,8 @@ I am specialized in predictive statistics, i.e. intelligence artificielle (IA), 
 <img align="left" alt="Sas" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/sas-6-logo-png-transparent.png" />  
 <img align="left" alt="STATA" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.1fa7e4cd066e2c9a1352c25a53f2e040?rik=kZh2rx6R9fd9Kw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-19bQeJnON-o%2fT2BK3xEJDcI%2fAAAAAAAAAfE%2fz769Z9KHMW4%2fs1600%2fstata_logo_blue.jpg&ehk=RL3SON9PB9dmyX62UYtnYD7achZbrfAQUklIdgfBCVI%3d&risl=&pid=ImgRaw&r=0" />
 <img align="left" alt="EViews" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.415f5d3b599599ac40b97f8ae2989a12?rik=lv9QELE1NMcumA&pid=ImgRaw&r=0" />
-<img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> <img align="left" alt="Windows, Unix, Gnu/linux And Mac Osx" width="30px" style="padding-right:10px;" src="https://www.clipartmax.com/png/small/301-3018604_examples-include-windows-unix-gnu-linux-and-mac-osx-types-of-system.png"><br/><br/>  
+<img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> 
+<img align="left" alt="Windows, Unix, Gnu/linux And Mac Osx" width="30px" style="padding-right:10px;" src="https://www.clipartmax.com/png/small/301-3018604_examples-include-windows-unix-gnu-linux-and-mac-osx-types-of-system.png" /><br/><br/>  
 
 
 ##### Currently learning from :  
