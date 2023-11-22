@@ -28,8 +28,9 @@ I am specialized in predictive statistics, i.e. intelligence artificielle (IA), 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /> <br/>
 
 ##### Some statistics :
-![GHstats ](https://github-readme-stats.vercel.app/api?username=KipedeneCoulibaly&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipedeneCoulibaly&layout=compact&theme=dracula)  
+  Activity             |  Languages
+:-------------------------:|:-------------------------:
+![GHstats ](https://github-readme-stats.vercel.app/api?username=KipedeneCoulibaly&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipedeneCoulibaly&layout=compact&theme=dracula)  
 
 ##### Follow me on :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KipedeneCoulibaly) 
