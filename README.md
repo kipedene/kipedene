@@ -47,5 +47,5 @@ Don't hesitate to contact me to discuss collaborations, professional opportuniti
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19874028/kip%c3%a9d%c3%a8ne-coulibaly)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='github' height='40'>](https://www.kaggle.com/kipedenecoulibaly)   
 
-##### pro githubs :
+##### My other githubs :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kipedene-inrae) 
